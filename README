@@ -12,3 +12,17 @@ For building overall project, goto root directory and run
 Startup axon server using
 
 C:\Users\Varun\Downloads\AxonServer\AxonServer-4.5.1>java -jar axonserver.jar
+
+Reference:
+
+http://progressivecoder.com/saga-pattern-implementation-with-axon-and-spring-boot-part-1/
+
+http://progressivecoder.com/saga-pattern-implementation-axon-spring-boot-part-2/
+
+http://progressivecoder.com/saga-pattern-implementation-axon-spring-boot-part-3/
+
+http://progressivecoder.com/saga-pattern-implementation-with-axon-and-spring-boot-part-4/
+
+https://github.com/dashsaurabh/saga-pattern-axon-spring-boot-sample
+
+https://axoniq.io/download
