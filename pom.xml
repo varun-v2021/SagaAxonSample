@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.vanaru.labs.dev</groupId>
+	<artifactId>saga-axon</artifactId>
+	<packaging>pom</packaging>
+	<version>0.0.1-SNAPSHOT</version>
+	<name>SagaAxonSample</name>
+	<description>Saga pattern using Axon</description>
+
+	<modules>
+		<module>order-service</module>
+		<module>payment-service</module>
+		<module>core-apis</module>
+		<module>shipping-service</module>
+	</modules>
+</project>

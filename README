@@ -1,0 +1,14 @@
+Run each of the service as following maven goal in run configuration (choose base directory as specific module directory
+from workspace during selection)
+spring-boot:run
+
+or from command line, goto module location
+
+.\mvnw spring-boot:run
+
+For building overall project, goto root directory and run
+.\mvnw install
+
+Startup axon server using
+
+C:\Users\Varun\Downloads\AxonServer\AxonServer-4.5.1>java -jar axonserver.jar
